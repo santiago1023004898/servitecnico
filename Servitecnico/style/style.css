@@ -1,0 +1,22 @@
+body 
+.navbar {
+    height: 50px;
+    padding: 5px 0;
+}
+
+.navbar-nav .nav-link {
+    font-size: 26px;
+    padding: 5px 10px;
+}
+
+.navbar-nav .nav-item h2 {
+    font-size: 28px;
+}
+
+.nav-background {
+    background-image: url('../ruta-de-tu-imagen.jpg'); /* Ruta de tu imagen */
+    background-size: cover; /* Ajusta la imagen al tamaño del contenedor */
+    background-position: center; /* Centra la imagen */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    padding: 10px; /* Ajusta el relleno para que los elementos no queden pegados */
+}
